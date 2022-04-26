@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001-cloud-provider-payment8001/001-cloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/001-cloud-provider-payment8001/001-cloud-provider-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-cloud-consumer-order80/002-cloud-consumer-order80.iml" filepath="$PROJECT_DIR$/002-cloud-consumer-order80/002-cloud-consumer-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-cloud-api-commons/003-cloud-api-commons.iml" filepath="$PROJECT_DIR$/003-cloud-api-commons/003-cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-cloud-eureka-server7001/004-cloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/004-cloud-eureka-server7001/004-cloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-cloud-eureka-server7002/005-cloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/005-cloud-eureka-server7002/005-cloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-cloud-provider-payment8002/006-cloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/006-cloud-provider-payment8002/006-cloud-provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+    </modules>
+  </component>
+</project>
